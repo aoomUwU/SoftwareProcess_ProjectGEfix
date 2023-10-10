@@ -86,7 +86,7 @@
 
 /* CSS สำหรับรูปภาพ */
 .grid-container .image {
-    width: 380px;
+    width: 400px;
     margin: 0 center;
     border-radius: 20px;
 } 
@@ -97,7 +97,7 @@
     font-weight: bold; /* ตัวอักษรหนา */
 } 
 .dashboardContent img {
-    width: 380px;
+    width: 400px;
     transition: transform 0.5s ease;
   }
 
