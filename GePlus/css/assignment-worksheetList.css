@@ -40,7 +40,7 @@
 
 .Week-opening {
   width: 100%;
-  background-color: #dfdfdf;
+  background-color: #ffffff;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.5s;
